@@ -1,2 +1,2 @@
 # RS232
-RS232 using python serial package + GUI
+RS232 serial port using python and C++ serial package + GUI (MFC and PyQt)
